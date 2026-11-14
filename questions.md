@@ -1,5 +1,5 @@
 1. Arrays
-code1. Find the Smallest Number in an Array
+code1. Find the first and second Smallest Number in an Array
 code2. Sum of Odd Integers in an Array
 code3. Count Inversions in an Array
 code4. Largest Pair Sum in an Array
