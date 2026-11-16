@@ -23,4 +23,4 @@ class Solution:
 
         max_width = max(max_width, w - prev)
 
-        return (max_height * max_width) % (10**9 + 7)
+        return (max_height * max_width) 
