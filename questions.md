@@ -16,28 +16,26 @@ code13. Maximum Cake Pieces / Maximum Regions
 code14. Cards Pyramid
 code15. Minimum Number of Perfect Squares
 code16. Sum of Binary Digits / Count Set Bits
-code17. Prefix Sum (Sum of All Number Prefixes)
+code17. Equivalent Sum (Sum of All Number Prefixes)
 code18. Armstrong Number
 code19. Sum of Prime Numbers in a Range
 code20. Print Prime Numbers Between L and R
-code21. Absolute Difference Between Digit Sums of Numbers Divisible by 4 and 7
-code22. Running Sum and Count of Divisibility by 5
-code23. Pairwise Difference Reduction for Six Integers
+code21. Running Sum and Count of Divisibility by 5
 3. Strings
-code24. Count Vowels in a Word
-code25. Minimum Cost to Convert String into a Single Vowel
-code26. Reverse String While Preserving Special Characters
-code27. Abbreviate a Word
-code28. First and Last Character Combination Frequency
-code29. Valid Anagram
+code22. Count Vowels in a Word
+code23. Minimum Cost to Convert String into a Single Vowel
+code24. Reverse String While Preserving Special Characters
+code25. Abbreviate a Word
+code26. First and Last Character Combination Frequency
+code27. Valid Anagram
 4. Logical / Implementation Problems
-code30. Climbing Stairs
-code31. Remove Duplicate Marks of Top Two Scorers
-code32. Balance Fruits (Apples and Mangoes)
-code33. The Energy and Hero
-code34. Chocolate Distribution Among Students
+code28. Climbing Stairs
+code29. Remove Duplicate Marks of Top Two Scorers
+code30. Balance Fruits (Apples and Mangoes)
+code31. The Energy and Hero
+code32. Chocolate Distribution Among Students
 5. Matrices and Patterns
-code35. Count Uniform Rows and Columns in a String Grid
-code36. Floyd's Triangle
+code33. Count Uniform Rows and Columns in a String Grid
+code34. Floyd's Triangle
 6. Output Tracing
-code37. Array Transformation and Total Sum
+code35. Array Transformation and Total Sum
