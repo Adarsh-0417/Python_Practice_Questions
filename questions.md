@@ -25,17 +25,18 @@ code21. Running Sum and Count of Divisibility by 5
 code22. Count Vowels in a Word
 code23. Minimum Cost to Convert String into a Single Vowel
 code24. Reverse String While Preserving Special Characters
-code25. Abbreviate a Word
-code26. First and Last Character Combination Frequency
-code27. Valid Anagram
+code25. Palindrome
+code26. Abbreviate a Word
+code27. First and Last Character Combination Frequency
+code28. Valid Anagram
 4. Logical / Implementation Problems
-code28. Climbing Stairs
-code29. Remove Duplicate Marks of Top Two Scorers
-code30. Balance Fruits (Apples and Mangoes)
-code31. The Energy and Hero
-code32. Chocolate Distribution Among Students
+code29. Climbing Stairs
+code30. Remove Duplicate Marks of Top Two Scorers
+code31. Balance Fruits (Apples and Mangoes)
+code32. The Energy and Hero
+code33. Chocolate Distribution Among Students
 5. Matrices and Patterns
-code33. Count Uniform Rows and Columns in a String Grid
-code34. Floyd's Triangle
+code34. Count Uniform Rows and Columns in a String Grid
+code35. Floyd's Triangle
 6. Output Tracing
-code35. Array Transformation and Total Sum
+code36. Array Transformation and Total Sum
