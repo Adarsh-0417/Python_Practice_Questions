@@ -1,13 +1,18 @@
-class Solution:
-    def print_divisors(self, n):
-        arr = []
+def sumPrimes(L, R):
+    is_prime = [True] * (R + 1)
 
-        for i in range(1, int(n**0.5) + 1):
-            if n % i == 0:
-                arr.append(i)
+    is_prime[0] = False
+    is_prime[1] = False
 
-                if i != n // i:
-                    arr.append(n // i)
+    for i in range(2, int(R**0.5) + 1):
+        if is_prime[i]:
+            for j in range(i*i, R + 1, i):
+                is_prime[j] = False
 
-        arr.sort()
-        return arr
+    total = 0
+
+    for i in range(L, R + 1):
+        if is_prime[i]:
+            total += i
+
+    return total
