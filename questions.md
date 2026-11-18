@@ -26,9 +26,9 @@ code22. Count Vowels in a Word
 code23. Minimum Cost to Convert String into a Single Vowel
 code24. Reverse String While Preserving Special Characters
 code25. Palindrome
-code26. Abbreviate a Word
+code26. Valid Anagram
 code27. First and Last Character Combination Frequency
-code28. Valid Anagram
+code28. Abbreviate a Word 
 4. Logical / Implementation Problems
 code29. Climbing Stairs
 code30. Remove Duplicate Marks of Top Two Scorers
