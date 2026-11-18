@@ -16,7 +16,7 @@ code13. Maximum Cake Pieces / Maximum Regions
 code14. Cards Pyramid
 code15. Minimum Number of Perfect Squares
 code16. Sum of Binary Digits / Count Set Bits
-code17. Equivalent Sum (Sum of All Number Prefixes)
+code17. Prefix Sum (Sum of All Number Prefixes)
 code18. Armstrong Number
 code19. Sum of Prime Numbers in a Range
 code20. Print Prime Numbers Between L and R
